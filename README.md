@@ -26,6 +26,7 @@ This repository showcases a web application designed to predict house prices in 
 
 <b> Usage: </b>
 
+
 Users input location, area, number of bedrooms, and toggle various amenities on the web page.
 Upon form submission, JavaScript sends the data to the Flask server (/predict).
 The Flask server uses the pre-trained ML model to predict the house price and returns the result.
@@ -35,4 +36,5 @@ Users can interact with the chatbot for additional assistance and information.
 
 <h2> Referential Screenshot </h2>
 
+![Screenshot 2024-05-19 at 5 06 13 PM](https://github.com/namangaurr/delhi-predictive-chatbot/assets/114846431/91127290-3761-4727-bf40-07d55d4c4596)
 
